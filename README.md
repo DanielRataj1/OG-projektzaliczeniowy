@@ -15,6 +15,7 @@ Składniki na ok. 3 porcje:
 100 g suszonych, wędzonych śliwek
 1 szklanka wytrawnego, czerwonego wina
 2 ziarna ziela angielskiego
+500 ml bimbru wujka
 5 ziaren pieprzu czarnego
 2 liście laurowe
 2 nasiona jałowca
