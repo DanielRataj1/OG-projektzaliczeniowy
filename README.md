@@ -31,3 +31,5 @@ Ugotowane kapusty odcedzić i połączyć w jednym garnku. Dodać pokrojone grzy
 Mięso pokroić w kostkę i podsmażyć na oleju na złoty kolor. Posolić.
 Osobno usmażyć pokrojoną w kostkę cebulę z pokrojonym w kostkę boczkiem i kiełbasą. (Kiełbasę obrać ze skóry). Dodać do kapusty razem z mięsem. Dodać pokrojone w paski śliwki. Podlać winem. Garnek przykryć, pozostawiając małą szczelinę i gotować co najmniej 1 godzinę. Bigos po ugotowaniu przyprawić ewentualnie do smaku solą i pieprzem, pozostawić do ostygnięcia, a następnie odstawić w chłodne miejsce.
 Przez kolejne 2- 3 dni bigos należy zagotować, pogotować przez kilka minut, jeśli byłoby za dużo płynu to go odparować i ponownie schłodzić. Bigos z czasem przechodzi smakiem i nabiera aromatu. Na trzeci dzień bigos jest gotowy do spożycia. Można go również zamrozić lub gorący przełożyć do słoików, zakręcić, pozostawić do ostygnięcia, wstawić do lodówki i spożyć do 2 tygodni
+
+DUPA DUPA DUPA DUPA
