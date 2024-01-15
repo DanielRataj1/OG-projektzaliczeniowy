@@ -1,0 +1,111 @@
+body {
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-image: url("./stol1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: rgb(60,0,0);
+    margin: 0%;
+    height: 100%;
+    width: 100%;
+    background-size: 70%;
+}
+
+/* #dealer-karty img {
+    height: 175px;
+    width: 125px;
+    margin: 1px;
+} */
+
+/* #wyp {
+    margin: 11.5%;
+} */
+
+
+
+#dealer-karty img {
+    height: 5%;
+    width: 5%;
+    margin: 1px;
+    transition: 0.3s;
+}
+
+#dealer-karty img:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+
+
+#gracz-karty img {
+    height: 5%;
+    width: 5%;
+    margin: 1px;
+    transition: 0.3s;
+}
+
+#gracz-karty img:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+#hit {
+    width: 103px;
+    height: 43px;
+    font-size: 20px;
+    background:url(./karty_OG_Projcet/hit.png) no-repeat; 
+    background-size: 100%;
+    transition: 0.3s;
+}
+
+#hit:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+#stay {
+    width: 100px;
+    height: 43px;
+    font-size: 20px;
+    background:url(./karty_OG_Projcet/stand.png) no-repeat; 
+    background-size: 100%;
+    transition: 0.3s;
+}
+
+#stay:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+#reset {
+    width: 100px;
+    height: 43px;
+    font-size: 20px;
+    background:url(./karty_OG_Projcet/reset.png) no-repeat; 
+    background-size: 100%;
+    transition: 0.3s;
+}
+
+#reset:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+#wynik {
+    font-size: 20px;
+    color: yellow;
+    margin: 50px;
+    transition: 0.3s;
+}
+
+h2 {
+    background-color:rgb(0, 0, 0, 0);
+    margin-top: 150px;
+    color: white;
+}
+
+#hidden {
+    margin: 0%;
+}
