@@ -19,7 +19,7 @@ function zbudujKarty() {
     let numer = ["A","2","3","4","5","6","7","8","9","10","J","D","K"]; /// wszystkie karty 
     let kolor = ["K","P","C","T"]; /// K - karo, P - pik, C - czerwo, T - trefl
     talia = [];
- //   let karty = ["AK", "2K"...];  sposob murzynski tfu jebac
+ //   let karty = ["AK", "2K"...];  
    
  for (let i = 0; i < kolor.length; i++) {
         for (let j = 0; j < numer.length; j++) {
